@@ -1,0 +1,7 @@
+# Packages required for the Coursera ML assignment notebook
+numpy
+matplotlib
+scikit-learn
+tensorflow
+ipywidgets
+ipympl

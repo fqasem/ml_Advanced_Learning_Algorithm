@@ -1,0 +1,12 @@
+ipykernel
+ipympl
+ipywidgets
+matplotlib
+networkx
+numpy
+pandas
+pillow
+pydot
+scipy
+scikit-learn
+xgboost
